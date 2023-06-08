@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjekPribadi</string>
+    <string name="header_start">Satpam Siap Berpatroli</string>
+    <string name="body_start">Satpam siap menjaga kenyamanan bekerja dengan keandalan tinggi</string>
+    <string name="button_login">Masuk</string>
+    <string name="button_askOp">Daftarkan diri</string>
+    <string name="login_info">Konfirmasi dirimu</string>
+    <string name="remember_me">Ingat saya</string>
+    <string name="report">Laporkan bug atau kegagalan sistem disini</string>
+</resources>
